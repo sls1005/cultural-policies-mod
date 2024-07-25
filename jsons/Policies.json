@@ -38,7 +38,8 @@
                      "[-10]% [Culture] [in annexed cities]",
                      "[+1 Culture] [in all cities connected to capital]",
                      "[+3 Culture] [{in all cities connected to capital} {Annexed}] <hidden from users>",
-                     "Comment [+3 Culture in annexed cities connected to capital]"
+                     "Comment [+3 Culture in annexed cities connected to capital]",
+                     "When conquering an encampment, earn [0] Gold and recruit a Barbarian unit <with [15]% chance>"
                 ]
             },
             {
