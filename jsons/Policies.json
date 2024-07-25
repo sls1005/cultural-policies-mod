@@ -113,9 +113,9 @@
                 ],
                 "uniques": [
                     "[+1 Culture, +1 Science] from each Trade Route",
-                    "[-5]% City-State Influence degradation",
                     "Allied City-States provide [Culture] equal to [5]% of what they produce for themselves",
-                    "Allied City-States provide [Science] equal to [5]% of what they produce for themselves"
+                    "Allied City-States provide [Science] equal to [5]% of what they produce for themselves",
+                    "[-5]% City-State Influence degradation"
                 ]
             },
             {
