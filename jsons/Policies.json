@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Monoculturalism",
+        "era": "Industrial era",
+        "uniques": [
+            "Only available <before adopting [Multiculturalism]>",
+            "[+5]% [Happiness] <in [{non-[Annexed]} {non-[Puppeted]}] cities> <for [30] turns>"
+        ],
+        "policies": [
+            {
+                "name": "Dress Code",
+                "row": 1,
+                "column": 2,
+                "uniques": [
+                    "[+1 Culture] [{in all non-occupied cities} {non-[Puppeted]}] <in cities with at least [2] [Population]> <hidden from users>",
+                    "Comment [+1 Culture in non-occupied non-puppeted cities with at least 2 Population]"
+                ]
+            },
+            {
+                "name": "Official Language",
+                "row": 1,
+                "column": 4,
+                "uniques": [
+                    "[-10]% Culture cost of adopting new Policies",
+                    "[-5]% [Culture] [in annexed cities]",
+                    "[-5]% [Happiness] [in annexed cities]"
+                ]
+            },
+            {
+                "name": "Assimilationism",
+                "row": 2,
+                "column": 2,
+                "requires": [
+                    "Official Language",
+                    "Dress Code"
+                ],
+                "uniques": [
+                     "[-10]% [Culture] [in annexed cities]",
+                     "[+1 Culture] [in all cities connected to capital]",
+                     "[+3 Culture] [{in all cities connected to capital} {Annexed}] <hidden from users>",
+                     "Comment [+3 Culture in annexed cities connected to capital]"
+                ]
+            },
+            {
+                "name": "Official Script",
+                "row": 2,
+                "column": 4,
+                "requires": [
+                    "Official Language"
+                ],
+                "uniques": [
+                    "[+15]% [Science] [in all non-occupied cities]"
+                ]
+            },
+            {
+                "name": "Nation-State",
+                "row": 3,
+                "column": 3,
+                "requires": [
+                    "Official Script",
+                    "Assimilationism"
+                ],
+                "uniques": [
+                    "[+10]% [Happiness] <in [{non-[Annexed]} {non-[Puppeted]}] cities>",
+                    "[+5]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"
+                ]
+            },
+            {
+                "name": "Monoculturalism Complete",
+                "uniques": [
+                     "Empire enters golden age",
+                     "[+20]% Unhappiness from [Population] [in annexed cities] <for [10] turns>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Multiculturalism",
+        "era": "Modern era",
+        "uniques": [
+            "Only available <before adopting [Monoculturalism]>",
+            "[+5]% [Happiness] [in annexed cities] <for [15] turns>"
+        ],
+        "policies": [
+            {
+                "name": "Multilingualism",
+                "row": 1,
+                "column": 2,
+                "uniques": [
+                    "[+5]% Culture cost of adopting new Policies",
+                    "[+1 Culture] per [10] population [in all cities]",
+                    "Resting point for Influence with City-States is increased by [5]"
+                ]
+            },
+            {
+                "name": "Cultural Preservation",
+                "row": 1,
+                "column": 4,
+                "uniques": [
+                    "[+15]% [Culture] [in puppeted cities]",
+                    "[+15]% [Culture] [in annexed cities]",
+                    "[-15]% Strength <for [All] units> <vs [Barbarian] units> <when attacking> <within [2] tiles of a [Barbarian encampment]>"
+                ]
+            },
+            {
+                "name": "Intercultural Dialogue",
+                "row": 2,
+                "column": 2,
+                "requires": [
+                    "Multilingualism",
+                    "Cultural Preservation"
+                ],
+                "uniques": [
+                    "[+1 Culture, +1 Science] from each Trade Route",
+                    "[-5]% City-State Influence degradation",
+                    "Allied City-States provide [Culture] equal to [5]% of what they produce for themselves",
+                    "Allied City-States provide [Science] equal to [5]% of what they produce for themselves"
+                ]
+            },
+            {
+                "name": "Autonomous Zones",
+                "row": 2,
+                "column": 4,
+                "requires": [
+                    "Cultural Preservation"
+                ],
+                "uniques": [
+                    "[-5]% Unhappiness from [Population] [in puppeted cities]"
+                ]
+            },
+            {
+                "name": "Autonomous Republics",
+                "row": 3,
+                "column": 4,
+                "requires": [
+                    "Autonomous Zones"
+                ],
+                "uniques": [
+                    "[-35]% [Gold] [in puppeted cities]",
+                    "[-35]% maintenance cost for buildings [in puppeted cities]",
+                    "[+5]% Production when constructing [all] buildings [in puppeted cities]"
+                ]
+            },
+            {
+                "name": "Multiculturalism Complete",
+                "uniques": [
+                     "[+5]% [Culture] [in all cities]",
+                     "[Great Artist] is earned [30]% faster",
+                     "[Great Merchant] is earned [30]% faster",
+                     "[-15]% Strength <for [All] units> <vs [Barbarian] units> <when attacking>",
+                     "[-25]% Strength <for [All] units> <vs [Barbarian] units> <when attacking> <within [3] tiles of a [Barbarian encampment]>"
+                ]
+            }
+        ]
+    }
+]

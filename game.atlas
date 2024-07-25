@@ -1,0 +1,90 @@
+
+game.png
+size: 1024, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyBranchIcons/Monoculturalism
+  rotate: false
+  xy: 816, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Multiculturalism
+  rotate: false
+  xy: 874, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Assimilationism
+  rotate: false
+  xy: 112, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Autonomous Republics
+  rotate: false
+  xy: 200, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Autonomous Zones
+  rotate: false
+  xy: 288, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Cultural Preservation
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Dress Code
+  rotate: false
+  xy: 376, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Intercultural Dialogue
+  rotate: false
+  xy: 464, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Multilingualism
+  rotate: false
+  xy: 552, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Nation-State
+  rotate: false
+  xy: 640, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Official Language
+  rotate: false
+  xy: 728, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Official Script
+  rotate: false
+  xy: 932, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
