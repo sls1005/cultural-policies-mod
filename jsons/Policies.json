@@ -88,8 +88,8 @@
                 "row": 1,
                 "column": 2,
                 "uniques": [
-                    "[+5]% Culture cost of adopting new Policies",
                     "[+1 Culture] per [10] population [in all cities]",
+                    "[+5]% Culture cost of adopting new Policies",
                     "Resting point for Influence with City-States is increased by [5]"
                 ]
             },
