@@ -17,7 +17,8 @@
                 "column": 2,
                 "uniques": [
                     "[+1 Culture] [{in all non-occupied cities} {non-[Puppeted]}] <in cities with at least [2] [Population]> <hidden from users>",
-                    "Comment [+1 Culture in non-occupied non-puppeted cities with at least 2 Population]"
+                    "Comment [+1 Culture in non-occupied non-puppeted cities with at least 2 Population]",
+                    "Free Social Policy"
                 ]
             },
             {
