@@ -2,6 +2,10 @@
     {
         "name": "Monoculturalism",
         "era": "Industrial era",
+        "priorities": {
+            "Cultural": 5,
+            "Domination": -5
+        },
         "uniques": [
             "Only available <before adopting [Multiculturalism]>",
             "[+5]% [Happiness] <in [{non-[Annexed]} {non-[Puppeted]}] cities> <for [30] turns>"
@@ -78,6 +82,11 @@
     {
         "name": "Multiculturalism",
         "era": "Modern era",
+        "priorities": {
+            "Cultural": -5,
+            "Diplomatic": 5,
+            "Domination": 1
+        },
         "uniques": [
             "Only available <before adopting [Monoculturalism]>",
             "[+5]% [Happiness] [in annexed cities] <for [15] turns>"
