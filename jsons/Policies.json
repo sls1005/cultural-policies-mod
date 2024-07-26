@@ -43,8 +43,7 @@
                      "[-10]% [Culture] [in annexed cities]",
                      "[+1 Culture] [in all cities connected to capital]",
                      "[+3 Culture] [{in all cities connected to capital} {Annexed}] <hidden from users>",
-                     "Comment [+3 Culture in annexed cities connected to capital]",
-                     "When conquering an encampment, earn [0] Gold and recruit a Barbarian unit <with [15]% chance>"
+                     "Comment [+3 Culture in annexed cities connected to capital]"
                 ]
             },
             {
@@ -75,6 +74,7 @@
                 "name": "Monoculturalism Complete",
                 "uniques": [
                      "Empire enters golden age",
+                     "When conquering an encampment, earn [0] Gold and recruit a Barbarian unit <with [15]% chance>",
                      "[+20]% Unhappiness from [Population] [in annexed cities] <for [10] turns>"
                 ]
             }
