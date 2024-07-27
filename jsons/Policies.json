@@ -3,7 +3,8 @@
         "name": "Monoculturalism",
         "era": "Industrial era",
         "priorities": {
-            "Cultural": 5,
+            "Cultural": 60,
+            "Scientific": 5,
             "Domination": -5
         },
         "uniques": [
@@ -85,9 +86,10 @@
         "name": "Multiculturalism",
         "era": "Modern era",
         "priorities": {
-            "Cultural": -5,
-            "Diplomatic": 5,
-            "Domination": 1
+            "Cultural": 5,
+            "Diplomatic": 10,
+            "Domination": 5,
+            "Scientific": 5
         },
         "uniques": [
             "Only available <before adopting [Monoculturalism]>",
