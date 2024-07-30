@@ -162,7 +162,8 @@
                      "[Great Artist] is earned [30]% faster",
                      "[Great Merchant] is earned [30]% faster",
                      "[-15]% Strength <for [All] units> <vs [Barbarian] units> <when attacking>",
-                     "[-25]% Strength <for [All] units> <vs [Barbarian] units> <when attacking> <within [3] tiles of a [Barbarian encampment]>"
+                     "[-15]% Strength <for [All] units> <vs [Barbarian] units> <when attacking> <within [3] tiles of a [Barbarian encampment]>",
+                     "[-15]% Strength <for [All] units> <vs [Barbarian] units> <when attacking> <within [2] tiles of a [Barbarian encampment]>"
                 ]
             }
         ]
